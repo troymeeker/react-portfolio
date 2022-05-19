@@ -3,13 +3,13 @@ import '../css/index.css';
 import ContactForm from './ContactForm';
 import Main from './Main';
 import Footer from './Footer';
+import Header from './Header';
 
 function App() {
   return (
     <div>
-     <header className='header'>
-      <h3>header</h3>
-     </header>
+    
+     <Header/>
 
      <main >
       

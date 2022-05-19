@@ -31,7 +31,7 @@ function ContactForm(){
         
         <div className='contact'>
            
-         <form onSubmit={handleOnSubmit} className="form" >
+         <form onSubmit={handleOnSubmit} className="contact-form" >
             <h3>Contact me for more information!</h3> 
            
             <input

@@ -4,11 +4,11 @@ function Footer(){
     return (
         <div className='footer'>
             <div className='footer-grid'>
-                <div className='grid-item'>
-                    linkedin
+                <div className='grid-item' >
+                   <a href='https://www.linkedin.com/in/troy-meeker/' target='_blank' rel="noreferrer" className='footer-item'>linkedin</a> 
                 </div>
                 <div className='grid-item'>
-                    github
+                    <a href='https://github.com/troymeeker' target='_blank' rel="noreferrer" className='footer-item'>github</a> 
                 </div>
                 <div className='grid-item'>
                     resume 
