@@ -23,18 +23,19 @@ function Main(){
                     Upon graduation from Flatiron School, I will pursue a career in full stack software delelopment and I am very excited 
                     to learn and gain experience. When I'm not coding, I can be found me running, golfing, or adventuring around the PNW with my family and dog.
                 </div>
+                <div className="tech-stack">
+                     <h3>
+                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Active Record, Sinatra, PostgreSQL, Postman
+                     </h3> 
+
+                 </div>
            
       
 
             </div>
             <div className="main-right"> 
               <div className="main-right-wrapper">
-                 <div>
-                     <h3>
-                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Active Record, Sinatra, PostgreSQL, Postman
-                     </h3> 
-
-                 </div>
+                
                  <div className="projects">
                     {/* <div className="project-div">
                         <h3>Javascript</h3>
@@ -42,33 +43,38 @@ function Main(){
                         <p>Features:  </p>
                         <a href="githublink">code</a>
                     </div> */}
+                    <h2>Projects:</h2>
                     <div className="project-div">
                         
                         <h3>React</h3>
                         <h4>Save-a-Pet</h4>
                         <p>Features: React Router, React Hooks,  </p>
-                        <a href="githublink">code</a>
+                        <p>gif</p>
+                        <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
                         
                         <h3>React/ Sinatra/ Active Record</h3>
                         <h4>Movies</h4>
                         <p>Features:  CRUD, React Router,  </p>
-                        <a href="githublink">code</a>
+                        <p>gif</p>
+                        <a href="https://github.com/troymeeker/phase-3-sinatra-react-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
                         
                         <h3>React/ Rails</h3>
                         <h4>Craigslist clone</h4>
                         <p>Features:  CRUD, React Router,</p>
-                        <a href="githublink">code</a>
+                        <p>gif</p>
+                        <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
                         
                         <h3> React/ Rails Final </h3>
                         <h4>Old North Acres</h4>
                         <p>Features: User authentication & authorization, CRUD, React Router,</p>
-                        <a href="githublink">code</a>
+                        <p>gif</p>
+                        <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" >code</a>
                     </div>
                  </div>
                  

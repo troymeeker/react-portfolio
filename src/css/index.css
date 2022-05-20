@@ -88,7 +88,7 @@ body {
 }
 
 .sidebar-left{
-  flex:10;
+  flex:20;
 }
 .sidebar-right{
   padding:10px;
@@ -145,6 +145,10 @@ margin-top:25px ;
   
 
 } 
+.tech-stack{
+  /* padding: 10px; */
+  margin-top:60px;
+}
 .project-div{
   border: 1px solid rgb(54, 54, 54);
   margin: 4px;
@@ -180,6 +184,21 @@ color:white;
 }
 .grid-item{
   font-weight: bold;
+
+}
+.submit-button{
+  width: 75px;
+  padding: 6px;
+  background-color: rgb(193, 192, 192);
+  border-radius: 8px;
+ 
+
+}
+.submit-button:hover{
+ 
+  background-color: rgb(62, 62, 62);
+  color:white;
+
 
 }
 
