@@ -23,6 +23,7 @@ function ContactForm(){
             });
             //clears the form after sending the email
             e.target.reset();
+            //provide success message not alert
         }
 
     
