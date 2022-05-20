@@ -32,7 +32,7 @@ function Header(){
                     <a href='https://github.com/troymeeker' target='_blank' rel="noreferrer" className='footer-item'>github</a> 
                 </div>
                 <div className='grid-item'>
-                    resume 
+                    resume
                 </div>
 
            
