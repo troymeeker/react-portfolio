@@ -32,7 +32,7 @@ body {
 }
 .main-title-wrapper{
   height: 100%;
-  animation: move 14s ease-in-out infinite alternate;
+  animation: move 20s ease-in-out infinite alternate;
 
 
 }
