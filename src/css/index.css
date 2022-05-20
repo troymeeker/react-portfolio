@@ -17,11 +17,12 @@ body {
   background-color: rgb(12, 12, 51);
   color:white;
   padding-top: 15px;
+  display: flex;
 }
 .main{ 
   text-align: center;
-  height: 80vh;
-  max-height: fit-content;
+  height: fit-content;
+  /* max-height: 200vh; */
   background-color: rgba(0, 80, 0, 0.849);
   color:white;
   display: flex;
@@ -55,6 +56,7 @@ body {
   
 
 }
+
 .main-title{
   height: 50px;
   overflow: hidden;
@@ -85,14 +87,27 @@ body {
   
 }
 
+.sidebar-left{
+  flex:10;
+}
+.sidebar-right{
+  padding:10px;
+  flex:1;
+  line-height: 30px;
+}
+
 .main-left{
  flex:1;
+ padding-left:15px;
 }
 .main-right{
 flex:1;
 }
 .project-div{
   font-weight: bold;
+}
+.projects{
+  padding: 10px;
 }
 .contact{
   padding: 10px;
@@ -101,7 +116,7 @@ flex:1;
   color: white;
   
   text-align: center;
-  height: fit-content;
+  height: 50vh;
 }
 .contact-form{
  
@@ -125,18 +140,23 @@ flex:1;
   margin: 5px;
 }
 .react-div{
-  display: block;
+margin-top:25px ;
+
   
 
+} 
+.project-div{
+  border: 1px solid rgb(54, 54, 54);
+  margin: 4px;
 }
 .react-icon{
  
-  height: 60px;
+  height: 62px;
  
 }
 .footer{
   text-align: center;
-  height: fit-content;
+  height: 30vh;
   background-color: rgb(42, 49, 69);
   color: white;
 }

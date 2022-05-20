@@ -31,13 +31,46 @@ function Main(){
               <div className="main-right-wrapper">
                  <div>
                      <h3>
-                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Active Record, PostgreSQL, Postman
+                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Active Record, Sinatra, PostgreSQL, Postman
                      </h3> 
 
                  </div>
-                 <div className="project-div">Project</div>
-                 <div className="project-div">Project</div>
-                 <div className="project-div">Project</div>
+                 <div className="projects">
+                    {/* <div className="project-div">
+                        <h3>Javascript</h3>
+                        <h4>Brewery Finder</h4>
+                        <p>Features:  </p>
+                        <a href="githublink">code</a>
+                    </div> */}
+                    <div className="project-div">
+                        
+                        <h3>React</h3>
+                        <h4>Save-a-Pet</h4>
+                        <p>Features: React Router, React Hooks,  </p>
+                        <a href="githublink">code</a>
+                    </div>
+                    <div className="project-div">
+                        
+                        <h3>React/ Sinatra/ Active Record</h3>
+                        <h4>Movies</h4>
+                        <p>Features:  CRUD, React Router,  </p>
+                        <a href="githublink">code</a>
+                    </div>
+                    <div className="project-div">
+                        
+                        <h3>React/ Rails</h3>
+                        <h4>Craigslist clone</h4>
+                        <p>Features:  CRUD, React Router,</p>
+                        <a href="githublink">code</a>
+                    </div>
+                    <div className="project-div">
+                        
+                        <h3> React/ Rails Final </h3>
+                        <h4>Old North Acres</h4>
+                        <p>Features: User authentication & authorization, CRUD, React Router,</p>
+                        <a href="githublink">code</a>
+                    </div>
+                 </div>
                  
               </div>
             </div>
