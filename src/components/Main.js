@@ -5,15 +5,15 @@ function Main(){
                 <div className="main-left-wrapper">
                     <div className="main-title">
                         <div className="main-title-wrapper">
-                        <div className="main-title-item">Hello,  </div>
-                        <div className="main-title-item"> Hola </div>
-                        <div className="main-title-item">Bonjour</div>
-                        <div className="main-title-item">Guten Tag </div>
-                        <div className="main-title-item">「こんにちは」 </div>
+                          <div className="main-title-item">Hello,  </div>
+                          <div className="main-title-item"> Hola </div>
+                          <div className="main-title-item">Bonjour</div>
+                          <div className="main-title-item">Guten Tag </div>
+                          <div className="main-title-item">「こんにちは」 </div>
                     </div>
                 </div>
                    
-                    <h3>My name is,</h3>
+                    <h3 className="myname">My name is,</h3>
                     <h1 className="main-name">Troy Meeker</h1>
                     <h3 className="main-job">Software Developer</h3> 
                 </div>
@@ -49,7 +49,7 @@ function Main(){
                         <h3>React</h3>
                         <h4>Save-a-Pet</h4>
                         <p>Features: React Router, React Hooks,  </p>
-                        <p>walkthrough</p>
+                        <p>walkthrough video/gif</p>
                         <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
@@ -57,7 +57,7 @@ function Main(){
                         <h3>React/ Sinatra/ Active Record</h3>
                         <h4>Movies</h4>
                         <p>Features:  CRUD, React Router,  </p>
-                        <p>walkthrough</p>
+                        <p>walkthrough video/gif</p>
                         <a href="https://github.com/troymeeker/phase-3-sinatra-react-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
@@ -65,7 +65,7 @@ function Main(){
                         <h3>React/ Rails</h3>
                         <h4>Craigslist clone</h4>
                         <p>Features:  CRUD, React Router, User authentication & authorization, </p>
-                        <p>walkthrough</p>
+                        <p>walkthrough video/gif</p>
                         <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
@@ -73,7 +73,7 @@ function Main(){
                         <h3> React/ Rails Final </h3>
                         <h4>Old North Acres</h4>
                         <p>Features: User authentication & authorization, CRUD, React Router,</p>
-                        <p>walkthrough</p>
+                        <p>walkthrough video/gif</p>
                         <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" >code</a>
                     </div>
                  </div>
