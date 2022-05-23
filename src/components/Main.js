@@ -49,7 +49,8 @@ function Main(){
                         <h3>React</h3>
                         <h4>Save-a-Pet</h4>
                         <p>Features: React Router, React Hooks,  </p>
-                        <p>walkthrough video/gif</p>
+                        
+                        <iframe width="450" height="250" src="https://www.youtube.com/embed/s8BXvIQ5B28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
@@ -57,7 +58,8 @@ function Main(){
                         <h3>React/ Sinatra/ Active Record</h3>
                         <h4>Movies</h4>
                         <p>Features:  CRUD, React Router,  </p>
-                        <p>walkthrough video/gif</p>
+                        
+                        <iframe width="450" height="250" src="https://www.youtube.com/embed/kZenk_yeF2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <a href="https://github.com/troymeeker/phase-3-sinatra-react-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
@@ -65,7 +67,9 @@ function Main(){
                         <h3>React/ Rails</h3>
                         <h4>Craigslist clone</h4>
                         <p>Features:  CRUD, React Router, User authentication & authorization, </p>
-                        <p>walkthrough video/gif</p>
+                        
+                        <iframe width="450" height="250" src="https://www.youtube.com/embed/5vLGhEH8Zzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
                         <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer">code</a>
                     </div>
                     <div className="project-div">
@@ -73,7 +77,7 @@ function Main(){
                         <h3> React/ Rails Final </h3>
                         <h4>Old North Acres</h4>
                         <p>Features: User authentication & authorization, CRUD, React Router,</p>
-                        <p>walkthrough video/gif</p>
+                       
                         <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" >code</a>
                     </div>
                  </div>
