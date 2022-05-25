@@ -48,10 +48,10 @@ function Main(){
                         
                         <h3>React</h3>
                         <h4>Save-a-Pet</h4>
-                        <p>Features: React Router, React Hooks,  </p>
+                        <p>Features: React Router, React Hooks </p>
                         
-                        <iframe width="450" height="250" src="https://www.youtube.com/embed/s8BXvIQ5B28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer">code</a>
+                        <iframe width="450" height="260" src="https://www.youtube.com/embed/s8BXvIQ5B28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+                        <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer" className="link">code</a>
                     </div>
                     <div className="project-div">
                         
@@ -59,8 +59,9 @@ function Main(){
                         <h4>Movies</h4>
                         <p>Features:  CRUD, React Router,  </p>
                         
-                        <iframe width="450" height="250" src="https://www.youtube.com/embed/kZenk_yeF2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <a href="https://github.com/troymeeker/phase-3-sinatra-react-project" target='_blank' rel="noreferrer">code</a>
+                        <iframe width="450" height="260" src="https://www.youtube.com/embed/kZenk_yeF2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+                        <a href="https://github.com/troymeeker/phase-3-sinatra-react-project" target='_blank' rel="noreferrer" className="link">code</a>
+                        
                     </div>
                     <div className="project-div">
                         
@@ -68,18 +69,19 @@ function Main(){
                         <h4>Craigslist clone</h4>
                         <p>Features:  CRUD, React Router, User authentication & authorization, </p>
                         
-                        <iframe width="450" height="250" src="https://www.youtube.com/embed/5vLGhEH8Zzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="450" height="260" src="https://www.youtube.com/embed/5vLGhEH8Zzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
-                        <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer">code</a>
+                        <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer" className="link">code</a>
+                        
                     </div>
-                    <div className="project-div">
+                    {/* <div className="project-div">
                         
                         <h3> React/ Rails Final </h3>
                         <h4>Old North Acres</h4>
                         <p>Features: User authentication & authorization, CRUD, React Router,</p>
                        
-                        <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" >code</a>
-                    </div>
+                        <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" className="link">code</a> 
+                    </div> */}
                  </div>
                  
               </div>
