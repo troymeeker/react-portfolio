@@ -56,11 +56,10 @@ function Main(){
                     <div className="project-div">
                         
                         <h3>React/ Sinatra/ Active Record</h3>
-                        <h4>Movies</h4>
+                        <h4>Movie Tracker</h4>
                         <p>Features:  CRUD, React Router,  </p>
-                        
-                        <iframe width="450" height="260" src="https://www.youtube.com/embed/kZenk_yeF2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-                        <a href="https://github.com/troymeeker/phase-3-sinatra-react-project" target='_blank' rel="noreferrer" className="link">code</a>
+                        <iframe width="450" height="260" src="https://www.youtube.com/embed/7x5zilfT0Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/> 
+                       <a href="https://github.com/troymeeker/phase-3-sinatra-react-project" target='_blank' rel="noreferrer" className="link">code</a>
                         
                     </div>
                     <div className="project-div">
@@ -68,9 +67,8 @@ function Main(){
                         <h3>React/ Rails</h3>
                         <h4>Craigslist clone</h4>
                         <p>Features:  CRUD, React Router, User authentication & authorization, </p>
-                        
-                        <iframe width="450" height="260" src="https://www.youtube.com/embed/5vLGhEH8Zzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-
+                        <iframe width="450" height="260" src="https://www.youtube.com/embed/4GTfhJEG_ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+                       
                         <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer" className="link">code</a>
                         
                     </div>
