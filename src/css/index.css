@@ -95,6 +95,7 @@ body {
   flex:15;
   position: relative;
   left:10px;
+  font-family: Tahoma, sans-serif;
 }
 .sidebar-right{
   padding:10px;
@@ -139,11 +140,23 @@ flex:1;
   height:20px;
   width: 200px;
   margin: 5px;
+  padding:2px;
 }
 .form-message{
   height: 90px;
   width: 350px;
   margin: 5px;
+  padding:2px;
+}
+.succes-msg{
+  margin:auto; 
+  width: 65%; 
+  border: 1px solid black;
+  padding:6px;
+
+  
+  
+ 
 }
 .react-div{
 margin-top:25px ;

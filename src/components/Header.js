@@ -18,7 +18,7 @@ function Header(){
     return(
         <div className='header'>
             <div className='sidebar-left'>
-            {hour >= 12 ? hour >= 16 ? <h3>Good Evening</h3> : <h3>Good Afternoon</h3> : <h3>Good Morning</h3>}
+            {hour >= 12 ? hour >= 16 ? <h3>Good Evening!</h3> : <h3>Good Afternoon!</h3> : <h3>Good Morning!</h3>}
             <h3>Today is {date}</h3>
             <h3>The current time is {currentTime}</h3>
             
