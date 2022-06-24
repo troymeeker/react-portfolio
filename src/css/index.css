@@ -191,6 +191,7 @@ margin-top:25px ;
   height: fit-content;
   background-color: rgb(42, 49, 69);
   color: white;
+  padding-bottom: 10px;
 }
 .footer-grid{
   display: flex;
@@ -232,9 +233,10 @@ color:white;
 
 .container{
   width:200px;
-  height:200px;
+  height:150px;
   margin:20px auto 0 auto;
   background:inherit;
+  
 
   display:flex;
   align-items: center;
