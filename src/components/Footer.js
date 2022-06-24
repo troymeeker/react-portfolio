@@ -1,4 +1,5 @@
 import react from '../images/react-icon.png';
+import resume from './files/Resume.pdf'
 
 function Footer(){
     return (
@@ -11,7 +12,7 @@ function Footer(){
                     <a href='https://github.com/troymeeker' target='_blank' rel="noreferrer" className='footer-item'>github</a> 
                 </div>
                 <div className='grid-item'>
-                    resume 
+                   <a href={resume} target='_blank' rel="noreferrer" className='footer-item' >resume</a>
                 </div>
 
             </div>

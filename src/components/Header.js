@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import resume from './files/Resume.pdf'
 
 function Header(){
     let time = new Date().toLocaleTimeString();
@@ -32,7 +33,7 @@ function Header(){
                     <a href='https://github.com/troymeeker' target='_blank' rel="noreferrer" className='footer-item'>github</a> 
                 </div>
                 <div className='grid-item'>
-                    resume
+                   <a href={resume} target='_blank' rel="noreferrer" className='footer-item' >resume</a>
                 </div>
 
            
