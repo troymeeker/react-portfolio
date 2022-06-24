@@ -188,7 +188,7 @@ margin-top:25px ;
 }
 .footer{
   text-align: center;
-  height: 30vh;
+  height: fit-content;
   background-color: rgb(42, 49, 69);
   color: white;
 }
@@ -229,4 +229,79 @@ color:white;
 
 
 }
+
+.container{
+  width:200px;
+  height:200px;
+  margin:20px auto 0 auto;
+  background:inherit;
+
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.react-logo{
+  display: inline-block;
+  border-radius:50%;
+  border:10px solid #00d8ff;
+
+  animation-name:rotate;
+  animation-duration: 11s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+}
+
+.react-logo , .react-logo:before , .react-logo:after{
+  position:absolute;
+  display: inline-block;
+  width:100px;
+  height:35px;
+  border-radius:50%;
+  border:5px solid #00d8ff;
+}
+
+.nucleo , .react-logo , .react-logo:before , .react-logo:after {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nucleo{
+  width:20px;
+  height:20px;
+  border-radius:100%;
+  background:#00d8ff;
+}
+
+.react-logo:before , .react-logo:after{
+  content:"";
+}
+
+.react-logo:after{
+  transform:rotate(-57deg);
+}
+
+.react-logo:before{
+  transform:rotate(57deg);
+}
+
+.title{
+font-size:30px;
+font-weight: bold;
+background:inherit;
+color:#00d8ff;
+width:250px;
+margin:2px auto;
+text-align:center;
+}
+
+@keyframes rotate{
+
+  100%{
+    transform:rotate(360deg);
+  }
+}
+
 

@@ -1,4 +1,4 @@
-import react from '../images/react-icon.png';
+
 import resume from './files/Resume.pdf'
 
 function Footer(){
@@ -8,6 +8,7 @@ function Footer(){
                 <div className='grid-item' >
                    <a href='https://www.linkedin.com/in/troy-meeker/' target='_blank' rel="noreferrer" className='footer-item'>linkedin</a> 
                 </div>
+               
                 <div className='grid-item'>
                     <a href='https://github.com/troymeeker' target='_blank' rel="noreferrer" className='footer-item'>github</a> 
                 </div>
@@ -17,12 +18,18 @@ function Footer(){
 
             </div>
 
-             {/* <h4>footer nav with links, linkedin, github, and resume logos</h4> */}
+            
          
          
-         <div className="react-div">
+         {/* <div className="react-div">
              <h4>Built with React </h4><img src={react} alt="react-logo" className="react-icon"/>
-         </div>
+         </div> */}
+        <div class="container">
+		    <span class="react-logo">
+		    	<span class="nucleo"></span>
+	    	</span>
+   
+        </div><p class="title"> Built with React</p>
          
         </div>
     )
