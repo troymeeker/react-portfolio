@@ -1,5 +1,5 @@
 
-import resume from './files/Resume2.pdf'
+import resume from './files/Resume4.pdf'
 
 function Footer(){
     return (

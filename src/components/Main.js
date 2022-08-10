@@ -20,15 +20,15 @@ function Main(){
                 <div className="main-desc">
                     I strive for continuous improvement and finding solutions to new problems everyday. 
                     I have experience in high level customer service and sales in the outdoor industry where I grew through teamwork, time management, and communication.
-                    Upon graduation from Flatiron School, I will pursue a career in full stack software development and I am very excited 
-                    to learn and gain experience. When I'm not coding, I can be found me running, golfing, or adventuring around the PNW with my family and dog.
+                    Since graduating from Flatiron School, I am pursuing a career in full stack software development and I am very excited 
+                    to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me running, or adventuring around the PNW with my family and dog.
                 </div>
                 <div className="tech-stack">
                      <h3>
-                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Active Record, Sinatra, PostgreSQL, Postman
+                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Python, Active Record, Sinatra, PostgreSQL, Postman
                      </h3> 
                      <br/>
-                     <h3>Currently Learning: Typescript, Python, Angular</h3>
+                     <h3>Currently Learning: Typescript, Angular</h3>
 
                 </div>
            

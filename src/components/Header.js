@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import resume from './files/Resume2.pdf'
+import resume from './files/Resume4.pdf'
 
 function Header(){
     let time = new Date().toLocaleTimeString();

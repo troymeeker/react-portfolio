@@ -36,7 +36,7 @@ function ContactForm(){
         <div className='contact'>
            
          <form onSubmit={handleOnSubmit} className="contact-form" >
-            <h3>Reach out to me anytime to talk about code or learn more about me!</h3> 
+            <h3>Reach out to me to talk about coding or learn more about me!</h3> 
            
             <input
                 label=' Name'
