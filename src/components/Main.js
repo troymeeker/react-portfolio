@@ -40,7 +40,7 @@ function Main(){
                 
                  <div className="projects">
                   
-                    <h2>Projects:</h2>
+                    <h2>Recent Projects</h2>
                     <div className="project-div">
                         
                         <h3>React</h3>

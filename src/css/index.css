@@ -14,7 +14,7 @@ body {
 .header{
   text-align: center;
   height: 20vh;
-  background-color: rgb(12, 12, 51);
+  background-color: rgb(25, 25, 69);
   color:white;
   padding-top: 15px;
   display: flex;
@@ -23,7 +23,7 @@ body {
   text-align: center;
   height: fit-content;
   /* max-height: 200vh; */
-  background-color: rgba(0, 80, 0, 0.849);
+  background-color: rgba(1, 64, 1, 0.849);
   color:white;
   display: flex;
 
@@ -112,6 +112,7 @@ flex:1;
 }
 .project-div{
   font-weight: bold;
+  padding:20px;
 }
 .projects{
   padding: 10px;
