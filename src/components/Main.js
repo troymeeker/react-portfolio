@@ -27,8 +27,8 @@ function Main(){
                      <h3>
                         Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Python, Active Record, Sinatra, PostgreSQL, Postman
                      </h3> 
-                     <br/>
-                     <h3>Currently Learning: Typescript, Angular</h3>
+                  
+        
 
                 </div>
            
