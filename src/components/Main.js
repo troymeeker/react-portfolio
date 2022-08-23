@@ -19,8 +19,8 @@ function Main(){
                 </div>
                 <div className="main-desc">
                     I strive for continuous improvement and finding solutions to new problems everyday. 
-                    I have experience in high level customer service and sales in the outdoor industry where I grew through teamwork, time management, and communication.
-                    Since graduating from Flatiron School, I am pursuing a career in full stack software development and I am very excited 
+                    I have 5+ years in high level customer service and sales in the outdoor industry where I grew through teamwork, time management, and communication.
+                    Since graduating from Flatiron Schools Full Stack Software engineering bootcamp, I am pursuing a career in full stack software development and I am very excited 
                     to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me running, or adventuring around the PNW with my family and dog.
                 </div>
                 <div className="tech-stack">
@@ -28,12 +28,7 @@ function Main(){
                         Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Python, Active Record, Sinatra, PostgreSQL, Postman
                      </h3> 
                   
-        
-
                 </div>
-           
-      
-
             </div>
             <div className="main-right"> 
               <div className="main-right-wrapper">

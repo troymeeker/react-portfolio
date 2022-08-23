@@ -56,9 +56,6 @@ body {
     transform: translateY(-200px);
   }
 
-
-  
-
 }
 
 .main-title{
@@ -113,9 +110,11 @@ flex:1;
 .project-div{
   font-weight: bold;
   padding:20px;
+  border-radius: 10px;
 }
 .projects{
-  padding: 10px;
+  padding: 12px;
+  /* margin: 6px; */
 }
 .contact{
   padding: 10px;
@@ -155,8 +154,6 @@ flex:1;
   border: 1px solid black;
   padding:6px;
 
-  
-  
  
 }
 .react-div{
@@ -172,9 +169,10 @@ margin-top:25px ;
   font-size: large;
 }
 .project-div{
-  border: 1px solid rgb(54, 54, 54);
-  margin: 4px;
-  background-color: rgb(100, 100, 100);
+  /* border: 1px solid rgb(5, 5, 5); */
+  margin: 15px;
+  padding: 10px;
+  background-color: rgb(137, 135, 135);
   line-height: 35px;
 }
 .react-icon{
