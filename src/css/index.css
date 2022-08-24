@@ -111,10 +111,16 @@ flex:1;
   font-weight: bold;
   padding:20px;
   border-radius: 10px;
+  box-shadow: 15px 15px 0 -6px  rgb(181, 179, 179);
+  margin: 15px;
+  
+  background-color: rgb(137, 135, 135);
+  line-height: 35px;
+ ;
 }
 .projects{
   padding: 12px;
-  /* margin: 6px; */
+  margin-top: 10px;
 }
 .contact{
   padding: 10px;
@@ -168,13 +174,7 @@ margin-top:25px ;
   font-family: monospace;
   font-size: large;
 }
-.project-div{
-  /* border: 1px solid rgb(5, 5, 5); */
-  margin: 15px;
-  padding: 10px;
-  background-color: rgb(137, 135, 135);
-  line-height: 35px;
-}
+
 .react-icon{
  
   height: 62px;
