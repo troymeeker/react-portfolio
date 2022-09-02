@@ -17,13 +17,7 @@ function Footer(){
                 </div>
 
             </div>
-
-            
          
-         
-         {/* <div className="react-div">
-             <h4>Built with React </h4><img src={react} alt="react-logo" className="react-icon"/>
-         </div> */}
         <div class="container">
 		    <span class="react-logo">
 		    	<span class="nucleo"></span>

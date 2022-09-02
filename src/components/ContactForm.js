@@ -15,7 +15,6 @@ function ContactForm(){
             .then((result) => {
                 // alert();
             console.log(result.text);
-               
                 //render success message not alert
             }, (error) => {
                 // alert();
@@ -28,8 +27,6 @@ function ContactForm(){
             //provide success message not alert
             setSubmitted(true)
         }
-
-    
 
     return(
         
@@ -87,7 +84,6 @@ function ContactForm(){
       </form> 
  
       </div>)
-    
 
 }
 

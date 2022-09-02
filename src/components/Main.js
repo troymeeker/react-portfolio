@@ -5,7 +5,7 @@ function Main(){
                 <div className="main-left-wrapper">
                     <div className="main-title">
                         <div className="main-title-wrapper">
-                          <div className="main-title-item">Hello,  </div>
+                          <div className="main-title-item">Hello  </div>
                           <div className="main-title-item"> Hola </div>
                           <div className="main-title-item">Bonjour</div>
                           <div className="main-title-item">Guten Tag </div>
@@ -22,6 +22,12 @@ function Main(){
                     I have 5+ years in high level customer service and sales in the outdoor industry where I grew through teamwork, time management, and communication.
                     Since graduating from Flatiron Schools Full Stack Software engineering bootcamp, I am pursuing a career in full stack software development and I am very excited 
                     to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me running, or adventuring around the PNW with my family and dog.
+                    <br/><br/>
+                    In addition to these languages, I am consistently building upon my knowledge with additional projects, research and resources that will help me improve.
+                    I am currently learning Python and Typescript. I am enjoying the process of learning Python for its versatility and usability. 
+                    <br/><br/>
+                    Being a very driven person, I was not personally fulfilled with my previous career path which is what initially steered me in the direction of software development. I fell in love quickly with the feeling of building things and the nonstop improvement that can be made with consistent learning and trial and error. 
+
                 </div>
                 <div className="tech-stack">
                      <h3>

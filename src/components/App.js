@@ -10,16 +10,13 @@ function App() {
     <div>
     
      <Header/>
-
-     <main >
-      
+     <main>
       <Main/>
     
       <ContactForm/>
      </main>
      
      <Footer/>
-    
 
     </div>
   );
