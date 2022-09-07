@@ -12,12 +12,10 @@ function App() {
      <Header/>
      <main>
       <Main/>
-    
       <ContactForm/>
      </main>
      
      <Footer/>
-
     </div>
   );
 }

@@ -43,8 +43,7 @@ function ContactForm(){
                 required
                 className='form-input'
                 tabIndex="1"
-              
-            />
+           />
             <br/>
            
             <input 
