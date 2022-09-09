@@ -39,40 +39,45 @@ function Main(){
             <div className="main-right"> 
               <div className="main-right-wrapper">
                 
-                 <div className="projects">
+                 {/* <div className="projects"> */}
                   
                     <h2>Recent Projects</h2>
-                    <div className="project-div">
-                        
-                        <h3>React</h3>
-                        <h4>Save-a-Pet</h4>
-                        <p>Features: React Router, React Hooks </p>
-                        
-                        <iframe width="450" height="250" src="https://www.youtube.com/embed/JdfKHPOYWbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-                        <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer" className="link">code</a>
+                    <div className="project-div-bg">
+                        <div className="project-div">
+                            
+                            <h3>React</h3>
+                            <h4>Save-a-Pet</h4>
+                            <p>Features: React Router, React Hooks </p>
+                            
+                            <iframe width="450" height="250" src="https://www.youtube.com/embed/JdfKHPOYWbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+                            <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer" className="link">code</a>
+                        </div>
                     </div>
-                 
-                    <div className="project-div">
+                    <div className="project-div-bg">
+                        <div className="project-div">
+                            
+                            <h3>React/ Rails</h3>
+                            <h4>Craigslist clone</h4>
+                            <p>Features:  CRUD, React Router, User authentication & authorization </p>
+    
+                            <a href="https://mighty-taiga-60616.herokuapp.com/" target='_blank' rel="noreferrer" className="link">Deployed App</a><br/>
+                            <iframe width="450" height="250" src="https://www.youtube.com/embed/4GTfhJEG_ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
                         
-                        <h3>React/ Rails</h3>
-                        <h4>Craigslist clone</h4>
-                        <p>Features:  CRUD, React Router, User authentication & authorization </p>
-  
-                        <a href="https://mighty-taiga-60616.herokuapp.com/" target='_blank' rel="noreferrer" className="link">Deployed App</a><br/>
-                        <iframe width="450" height="250" src="https://www.youtube.com/embed/4GTfhJEG_ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-                       
-                        <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer" className="link">code</a>
-                        
+                            <a href="https://github.com/troymeeker/phase-4-rails-project" target='_blank' rel="noreferrer" className="link">code</a>
+                            
+                        </div>
+                    </div>    
+                    <div className="project-div-bg">
+                        <div className="project-div">
+                            
+                            <h3> React/ Rails  </h3>
+                            <h4>Old North Acres</h4>
+                            <p>Features: User authentication & authorization, CRUD, React Router, EmailJS</p>
+                            <iframe width="450" height="250" src="https://www.youtube.com/embed/S0A1yPNA99s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+                            <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" className="link">code</a> 
+                        </div>
                     </div>
-                    <div className="project-div">
-                        
-                        <h3> React/ Rails  </h3>
-                        <h4>Old North Acres</h4>
-                        <p>Features: User authentication & authorization, CRUD, React Router, EmailJS</p>
-                        <iframe width="450" height="250" src="https://www.youtube.com/embed/S0A1yPNA99s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-                        <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" className="link">code</a> 
-                    </div>
-                 </div>
+                 {/* </div> */}
                  
               </div>
             </div>

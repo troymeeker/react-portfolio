@@ -55,7 +55,6 @@ function ContactForm(){
                 className='form-input'
                 tabIndex="2"
               
-             
             /><br/>
            <input
                 label="subject"
@@ -63,7 +62,7 @@ function ContactForm(){
                 placeholder='Subject'
                 className='form-input'
                 tabIndex="3"
-               
+            
            />
           <br/>
           <textarea
