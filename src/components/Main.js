@@ -39,7 +39,6 @@ function Main(){
             <div className="main-right"> 
               <div className="main-right-wrapper">
                 
-                 {/* <div className="projects"> */}
                   
                     <h2>Recent Projects</h2>
                     <div className="project-div-bg">
@@ -77,7 +76,7 @@ function Main(){
                             <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" className="link">code</a> 
                         </div>
                     </div>
-                 {/* </div> */}
+                
                  
               </div>
             </div>
