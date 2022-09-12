@@ -24,7 +24,7 @@ function Main(){
                     to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me running, or adventuring around the PNW with my family and dog.
                     <br/><br/>
                     In addition to these languages, I am consistently building upon my knowledge with additional projects, research and resources that will help me improve.
-                    I am currently learning Python and Typescript. I am enjoying the process of learning Python for its versatility and usability. 
+                    I am currently learning Python. I am enjoying the process of learning Python for its versatility and usability. 
                     <br/><br/>
                     Being a very driven person, I was not personally fulfilled with my previous career path which is what initially steered me in the direction of software development. I fell in love quickly with the feeling of building things and the nonstop improvement that can be made with consistent learning and trial and error. 
 
