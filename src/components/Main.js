@@ -29,10 +29,11 @@ function Main(){
                     Being a very driven person, I was not personally fulfilled with my previous career path which is what initially steered me in the direction of software development. I fell in love quickly with the feeling of building things and the nonstop improvement that can be made with consistent learning and trial and error. 
 
                 </div>
-                <div className="tech-stack">
-                     <h3>
+                <div >
+                     <h3 className="tech-stack">
                         Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Python, Active Record, Sinatra, PostgreSQL, Postman
-                     </h3> 
+                     </h3> <br/>
+                     <h3 className="tech-stack">Currently Learning Angular, Django & Typescript</h3>
                   
                 </div>
             </div>

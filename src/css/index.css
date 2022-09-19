@@ -169,10 +169,10 @@ margin-top:25px ;
 
 } 
 .tech-stack{
-  /* padding: 10px; */
-  margin-top:200px;
+  
+  margin-top:50px;
   font-family: monospace;
-  font-size: large;
+  font-size: 20px;
 }
 
 .react-icon{
