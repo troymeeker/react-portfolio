@@ -15,7 +15,7 @@ body {
   height: 20vh;
   background-color: rgb(25, 25, 69);
   color:white;
-  padding-top: 15px;
+  padding-top: 10px;
   display: flex;
 }
 .main{ 
@@ -92,6 +92,8 @@ body {
   position: relative;
   left:10px;
   font-family: Tahoma, sans-serif;
+  font-size: 18px;
+
 }
 .sidebar-right{
   padding:10px;
@@ -210,9 +212,25 @@ text-decoration: none;
 color:white;
   
 }
-.grid-item{
+.grid-item-footer{
+  font-weight: bold;
+}
+.grid-item-first{
   font-weight: bold;
   padding:2px;
+  margin-right: 90px;
+
+}
+.grid-item-second{
+  font-weight: bold;
+  padding:2px;
+  margin-right: 60px;
+
+}
+.grid-item-third{
+  font-weight: bold;
+  padding:2px;
+  margin-right: 30px;
 
 }
 .submit-button{
