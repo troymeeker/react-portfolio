@@ -31,9 +31,9 @@ function Main(){
                 </div>
                 <div >
                      <h3 className="tech-stack">
-                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Python, Active Record, Sinatra, PostgreSQL, Postman
+                        Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Python, Active Record, Postman
                      </h3> <br/>
-                     <h3 className="tech-stack">Currently Learning Angular, Bootstrap & Typescript</h3>
+                     <h3 className="tech-stack">Currently Learning Angular & Typescript</h3>
                   
                 </div>
             </div>
