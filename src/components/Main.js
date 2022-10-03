@@ -77,6 +77,16 @@ function Main(){
                             <a href="https://github.com/troymeeker/old-north-acres" target='_blank' rel="noreferrer" className="link">code</a> 
                         </div>
                     </div>
+                    <div className="project-div-bg">
+                        <div className="project-div">
+                            
+                            <h3> Python3 </h3>
+                            <h4>Multiple choice quiz app</h4>
+                            <p>Features: Gives user correct answer if provided a wrong answer & Gives a final grade of answers correct </p>
+                           
+                            <a href="https://github.com/troymeeker/python_quiz" target='_blank' rel="noreferrer" className="link">code</a> 
+                        </div>
+                    </div>
                 
                  
               </div>
