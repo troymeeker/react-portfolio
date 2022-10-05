@@ -1,6 +1,7 @@
 *{
   margin: 0px;
   padding: 0px;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -151,14 +152,16 @@ flex:1;
   width: 250px;
   margin: 5px;
   padding:4px;
+  font-weight: bold;
 }
 .form-message{
   height: 90px;
   width: 380px;
   margin: 5px;
   padding:4px;
+  font-weight: bold;
 }
-.succes-msg{
+.success-msg{
   margin:auto; 
   width: 65%; 
   border: 1px solid black;
@@ -208,8 +211,8 @@ margin-top:25px ;
   
 }
 .footer-item:visited{
-text-decoration: none;
-color:white;
+  text-decoration: none;
+  color:white;
   
 }
 .grid-item-footer{
@@ -236,16 +239,15 @@ color:white;
 .submit-button{
   width: 75px;
   padding: 6px;
-  background-color: rgb(193, 192, 192);
+  background-color: rgb(61, 60, 60);
   border-radius: 8px;
- 
-
+  font-size: 16px;
+  font-weight: bold;
+  color:white;
 }
 .submit-button:hover{
- 
-  background-color: rgb(62, 62, 62);
-  color:white;
-
+  background-color: rgb(176, 174, 174);
+  color:black;
 
 }
 
@@ -254,8 +256,6 @@ color:white;
   height:150px;
   margin:20px auto 0 auto;
   background:inherit;
-  
-
   display:flex;
   align-items: center;
   justify-content: center;
