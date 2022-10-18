@@ -23,7 +23,7 @@ function Footer(){
 		    	<span class="nucleo"></span>
 	    	</span>
    
-        </div><p class="title"> Built with React</p>
+        </div><p class="title">Built with React</p>
          
         </div>
     )

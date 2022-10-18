@@ -204,10 +204,11 @@ margin-top:25px ;
   margin-left: 20vw;
   margin-right: 20vw;
   padding: 10px;
-
+  padding-top: 20px;
 }
 .footer-item{
   text-decoration: none;
+ 
   
 }
 .footer-item:visited{
@@ -221,7 +222,7 @@ margin-top:25px ;
 .grid-item-first{
   font-weight: bold;
   padding:2px;
-  margin-right: 90px;
+  margin-right: 60px;
 
 }
 .grid-item-second{
@@ -233,7 +234,7 @@ margin-top:25px ;
 .grid-item-third{
   font-weight: bold;
   padding:2px;
-  margin-right: 30px;
+  margin-right: 60px;
 
 }
 .submit-button{
@@ -308,7 +309,7 @@ margin-top:25px ;
 }
 
 .title{
-  font-size:30px;
+  font-size:20px;
   font-weight: bold;
   background:inherit;
   color:#00d8ff;
