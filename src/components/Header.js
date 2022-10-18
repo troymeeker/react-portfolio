@@ -24,7 +24,7 @@ function Header(){
             <h3>Today is {date}</h3>
             <h3>The current time is {currentTime}</h3>
             
-           <h3>__________________________</h3>
+           {/* <h3>__________________________</h3> */}
            </div>
            <div className='sidebar-right'>
                 <div className='grid-item-first' >
