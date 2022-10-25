@@ -13,11 +13,11 @@ function Main(){
                     </div>
                 </div>
                    
-                    <h3 className="myname">My name is,</h3>
-                    <h1 className="main-name">Troy Meeker</h1>
-                    <h3 className="main-job">Software Developer</h3> 
+                    <h3 className="myname, head-font" >My name is,</h3>
+                    <h1 className="main-name, head-font">Troy Meeker</h1>
+                    <h3 className="main-job, head-font">Software Developer</h3> 
                 </div>
-                <div className="main-desc">
+                <div className="main-desc, body-font" >
                     I strive for continuous improvement and finding solutions to new problems everyday. 
                     I have 5+ years in high level customer service and sales in the outdoor industry where I grew through teamwork, time management, and communication.
                     Since graduating from Flatiron Schools Full Stack Software engineering bootcamp, I am pursuing a career in full stack software development and I am very excited 
@@ -29,11 +29,11 @@ function Main(){
                     Being a very driven person, I was not personally fulfilled with my previous career path which is what initially steered me in the direction of software development. I fell in love quickly with the feeling of building things and the nonstop improvement that can be made with consistent learning and trial and error. 
 
                 </div>
-                <div >
-                     <h3 className="tech-stack">
+                <div  className="tech-stack">
+                     <h3 className="body-font">
                         Technologies: HTML, CSS, Javascript, React, Ruby, Ruby on Rails, Python, Active Record, Postman
                      </h3> <br/>
-                     <h3 className="tech-stack">Currently Learning Angular & Typescript</h3>
+                     <h3 className="body-font">Currently Learning Angular & Typescript</h3>
                   
                 </div>
             </div>

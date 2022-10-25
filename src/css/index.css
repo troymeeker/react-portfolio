@@ -28,6 +28,13 @@ body {
   display: flex;
 
 }
+/* .head-font{
+font-family: srif;
+} */
+.body-font{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
 
 .main-left-wrapper, .main-right-wrapper{
   padding: 50px;
@@ -75,6 +82,7 @@ body {
 }
 .main-desc{
   margin-left: 11px;
+  /* margin-bottom: 60px; */
   font-size: 16px;
   font-weight: bold; 
   text-align: center;
@@ -174,9 +182,7 @@ margin-top:25px ;
 
 } 
 .tech-stack{
-  
-  margin-top:50px;
-  font-family: monospace;
+  margin-top: 70px;
   font-size: 20px;
 }
 
@@ -238,17 +244,17 @@ margin-top:25px ;
 
 }
 .submit-button{
-  width: 75px;
-  padding: 6px;
-  background-color: rgb(61, 60, 60);
+  width: fit-content;
+  padding: 7px;
+  background-color: rgb(52, 51, 51);
   border-radius: 8px;
   font-size: 16px;
   font-weight: bold;
   color:white;
 }
 .submit-button:hover{
-  background-color: rgb(176, 174, 174);
-  color:black;
+  background-color: rgb(189, 186, 186);
+  color:rgb(10, 10, 10);
 
 }
 
