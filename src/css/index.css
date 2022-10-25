@@ -14,8 +14,8 @@ body {
 .header{
   text-align: center;
   height: 20vh;
-  background-color: rgb(25, 25, 69);
-  color:white;
+  background-color: rgb(35, 41, 57);
+  color:rgb(233, 232, 232);
   padding-top: 10px;
   display: flex;
 }
@@ -23,8 +23,8 @@ body {
   text-align: center;
   height: fit-content;
   /* max-height: 200vh; */
-  background-color: rgba(1, 52, 1, 0.849);
-  color:white;
+  background-color: rgba(4, 62, 4, 0.849);
+  color:rgb(235, 235, 235);
   display: flex;
 
 }
