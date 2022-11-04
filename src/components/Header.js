@@ -1,7 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import resume from './files/Resume4.pdf'
 
-function Header(){
+
+function Header({contact}){
     let time = new Date().toLocaleTimeString();
     const [currentTime, setCurrentTime] = useState(time);
   
@@ -14,6 +15,14 @@ function Header(){
           setCurrentTime( new Date().toLocaleTimeString());
         }, 1000);
    });
+   const ref = useRef(null)
+
+   function handleClick(){
+    window.scrollTo({
+        top: ref.current.offsetTop,
+        behavior: 'smooth',
+      });
+   }
        
     
     return(
@@ -34,6 +43,9 @@ function Header(){
                 </div>
                 <div className='grid-item-third'>
                    <a href={resume} target='_blank' rel="noreferrer" className='footer-item' > resume</a>
+                </div>
+                <div className='grid-item-four'>
+                    <h4 className='footer-item' onClick={() => handleClick(contact)}>contact me</h4>
                 </div>
 
            

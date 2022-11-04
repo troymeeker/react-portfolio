@@ -1,9 +1,9 @@
 
 import resume from './files/Resume4.pdf'
 
-function Footer(){
+function Footer({contact}){
     return (
-        <div className='footer'>
+        <div className='footer' ref={contact}>
             <div className='footer-grid'>
                 <div className='grid-item-footer' >
                    <a href='https://www.linkedin.com/in/troy-meeker/' target='_blank' rel="noreferrer" className='footer-item'>linkedin</a> 
@@ -15,6 +15,7 @@ function Footer(){
                 <div className='grid-item-footer'>
                    <a href={resume} target='_blank' rel="noreferrer" className='footer-item' >resume</a>
                 </div>
+                
 
             </div>
          

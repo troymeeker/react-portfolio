@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 
-function ContactForm(){
+function ContactForm({ref}){
     const SERVICE_ID = 'service_meagxfb';
     const TEMPLATE_ID = 'template_jm63u5s';
     const USER_ID = '33t3tPMjxMD4rRJ5P';
@@ -30,7 +30,7 @@ function ContactForm(){
 
     return(
         
-        <div className='contact'>
+        <div className='contact' ref={ref}>
            
          <form onSubmit={handleOnSubmit} className="contact-form" >
             <h3>Reach out to me to talk about coding or learn more about me!</h3> 
