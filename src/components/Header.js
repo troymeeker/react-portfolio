@@ -2,7 +2,7 @@ import { useState, useEffect} from 'react';
 import resume from './files/Resume4.pdf'
 
 
-function Header({contactRef}){
+function Header(){
     let time = new Date().toLocaleTimeString();
     const [currentTime, setCurrentTime] = useState(time);
   
@@ -16,11 +16,6 @@ function Header({contactRef}){
         }, 1000);
    });
 
-
-   function handleClick(){
-    // contactRef.current.scrollIntoView({ behavior: 'smooth' });
-    console.log('clicked');
-   }
        
     
     return(
@@ -42,9 +37,7 @@ function Header({contactRef}){
                 <div className='grid-item-third'>
                    <a href={resume} target='_blank' rel="noreferrer" className='footer-item' > resume</a>
                 </div>
-                <div className='grid-item-four'>
-                    <h4 className='footer-item' onClick={() => handleClick(contactRef)}>contact me</h4>
-                </div>
+                
 
            
 
