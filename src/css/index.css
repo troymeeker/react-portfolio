@@ -14,8 +14,8 @@ body {
 .header{
   text-align: center;
   height: 24vh;
-  background-color: rgb(35, 41, 57);
-  color:rgb(233, 232, 232);
+  background-color: rgb(21, 26, 39);
+  color:#fff;
   padding-top: 10px;
   display: flex;
 }
@@ -23,8 +23,8 @@ body {
   text-align: center;
   height: fit-content;
   /* max-height: 200vh; */
-  background-color: #3f573f;
-  color:rgb(235, 235, 235);
+  background-color: #2d422d;
+  color:#fff;
   display: flex;
 
 }
@@ -123,13 +123,13 @@ flex:1;
   border-radius: 10px;
   
   margin: 5px; 
-  background-color: #626060;
+  background-color: #454444;
   line-height: 35px;
  
 }
 .project-div-bg{
   padding: 10px;
-  background-color:rgb(172, 169, 169);
+  background-color:rgb(131, 123, 123);
   border-radius: 10px;
   margin: 12px; 
  
