@@ -141,7 +141,7 @@ flex:1;
   color: white;
   
   text-align: center;
-  height: 50vh;
+  height: fit-content;
 }
 .contact-form{
  
@@ -257,8 +257,9 @@ margin-top:25px ;
 
 }
 .submit-button{
-  width: fit-content;
+  width: 100px;
   padding: 7px;
+  margin: 2px;
   background-color: rgb(32, 31, 31);
   border-radius: 8px;
   font-size: 16px;
