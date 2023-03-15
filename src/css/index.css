@@ -13,7 +13,7 @@ body {
 
 .header{
   text-align: center;
-  height: 24vh;
+  height: fit-content;
   background-color: rgb(21, 26, 39);
   color:#fff;
   padding-top: 10px;
@@ -248,7 +248,7 @@ margin-top:25px ;
   margin-right: 60px;
 
 }
-.grid-item-four{
+.grid-item-fourth{
   font-weight: bold;
   padding:2px;
   margin-right: 60px;

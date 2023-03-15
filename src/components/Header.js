@@ -1,5 +1,5 @@
 import { useState, useEffect} from 'react';
-import resume from './files/Resume4.pdf'
+import resume from './files/Resume.pdf'
 
 
 function Header(){
@@ -37,7 +37,7 @@ function Header(){
                 <div className='grid-item-third'>
                    <a href={resume} target='_blank' rel="noreferrer" className='footer-item' > resume</a>
                 </div>
-                
+               
 
            
 
