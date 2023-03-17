@@ -123,13 +123,13 @@ flex:1;
   border-radius: 10px;
   
   margin: 5px; 
-  background-color: #454444;
+  background-color: #323232;
   line-height: 35px;
  
 }
 .project-div-bg{
   padding: 10px;
-  background-color:rgb(131, 123, 123);
+  background-color:rgb(108, 102, 102);
   border-radius: 10px;
   margin: 12px; 
  
@@ -137,7 +137,7 @@ flex:1;
 
 .contact{
   padding: 10px;
-  background-color: rgb(79, 79, 79);
+  background-color: rgb(57, 56, 56);
   color: white;
   
   text-align: center;
