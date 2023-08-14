@@ -48,7 +48,7 @@ function Main(){
                             <h4>Save-a-Pet</h4>
                             <p>Features: React Router, React Hooks </p>
                             
-                            <iframe width="450" height="250" src="https://www.youtube.com/embed/JdfKHPOYWbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+                            <iframe width="450" height="250" src="https://www.youtube.com/watch?v=s8BXvIQ5B28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
                             <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer" className="link">code</a>
                         </div>
                     </div>
