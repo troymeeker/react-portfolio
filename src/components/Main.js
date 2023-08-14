@@ -44,12 +44,11 @@ function Main(){
                     <div className="project-div-bg">
                         <div className="project-div">
                             
-                            <h3>React</h3>
-                            <h4>Save-a-Pet</h4>
-                            <p>Features: React Router, React Hooks </p>
+                            <h3>Weather App</h3>
+                            <h4>Search for a city with greater than 100,000 population</h4>
+                            <p>Features: API </p>
                             
-                            <iframe width="450" height="250" src="https://www.youtube.com/watch?v=s8BXvIQ5B28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-                            <a href="https://github.com/troymeeker/phase-2-project" target='_blank' rel="noreferrer" className="link">code</a>
+                            <a href="https://github.com/troymeeker/weather-app" target='_blank' rel="noreferrer" className="link">code</a>
                         </div>
                     </div>
                     <div className="project-div-bg">
