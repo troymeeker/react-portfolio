@@ -21,7 +21,7 @@ function Main(){
                     I strive for continuous improvement and finding solutions to new problems everyday. 
                     I have 5+ years in high level customer service and sales in the outdoor industry where I grew through teamwork, time management, and communication.
                     Since graduating from Flatiron Schools Full Stack Software engineering bootcamp, I am pursuing a career in full stack software development and I am very excited 
-                    to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me running, or adventuring around the PNW with my family and dog.
+                    to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me running, or adventuring around the PNW with my wife and dog.
                     <br/><br/>
                     In addition to these languages, I am consistently building upon my knowledge with additional projects, research and resources that will help me improve.
                     I am currently learning Python. I am enjoying the process of learning Python for its versatility and usability. 
