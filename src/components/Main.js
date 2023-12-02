@@ -21,17 +21,15 @@ function Main(){
                     I strive for continuous improvement and finding solutions to new problems everyday. 
                     I have 5+ years in high level customer service and sales in the outdoor industry where I grew through teamwork, time management, and communication.
                     Since graduating from Flatiron Schools Full Stack Software engineering bootcamp, I am pursuing a career in full stack software development and I am very excited 
-                    to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me running, or adventuring around the PNW with my wife and dog.
-                    <br/><br/>
-                    In addition to these languages, I am consistently building upon my knowledge with additional projects, research and resources that will help me improve.
-                    I am currently learning Python. I am enjoying the process of learning Python for its versatility and usability. 
-                    <br/><br/>
-                    Being a very driven person, I was not personally fulfilled with my previous career path which is what initially steered me in the direction of software development. I fell in love quickly with the feeling of building things and the nonstop improvement that can be made with consistent learning and trial and error. 
-
+                    to learn new technologies, gain experience, and solve problems. When I'm not coding, I can be found me trail running, or adventuring around the PNW with my wife and dog.
+                    
                 </div>
                 <div  className="tech-stack">
                      <h3 className="body-font">
                         Technologies: HTML, CSS, Bootstrap, jQuery, Javascript, React, Ruby, Ruby on Rails, Python
+                     </h3> 
+                     <h3 className="body-font">
+                        Currently Learning Shopify & Liquid
                      </h3> 
                      
                 </div>
@@ -85,6 +83,7 @@ function Main(){
                             <p>Features: Gives user correct answer if provided a wrong answer & Gives a final grade of answers correct </p>
                            {/* <img width="450" height="250" alt='code snippet' src="./files/codesnip.png"/> */}
                             <a href="https://github.com/troymeeker/python_quiz" target='_blank' rel="noreferrer" className="link">code</a> 
+                            <p>Walkthrough video coming soon</p>
                         </div>
                     </div>
                 
