@@ -81,7 +81,7 @@ function Main(){
                             <h3> Python </h3>
                             <h4>Multiple choice quiz app</h4>
                             <p>Features: Gives user correct answer if provided a wrong answer & Gives a final grade of answers correct </p>
-                           {/* <img width="450" height="250" alt='code snippet' src="./files/codesnip.png"/> */}
+                            {/* <img width="250" height="200" alt='code snippet' src="./files/codesnip.png"/>  */}
                             <a href="https://github.com/troymeeker/python_quiz" target='_blank' rel="noreferrer" className="link">code</a> 
                             <p>Walkthrough video coming soon</p>
                         </div>

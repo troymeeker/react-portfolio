@@ -1,5 +1,5 @@
 import { useState, useEffect} from 'react';
-import resume from './files/Resume.pdf'
+import resume from './files/ResumeUpdate.pdf'
 
 
 function Header(){
