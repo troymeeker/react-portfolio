@@ -15,7 +15,7 @@ body {
 .header{
   text-align: center;
   height: fit-content;
-  background-color: rgb(21, 26, 39);
+  background-color: rgb(23, 35, 65);
   color:#fff;
   padding-top: 10px;
   display: flex;
@@ -24,7 +24,7 @@ body {
   text-align: center;
   height: fit-content;
   /* max-height: 200vh; */
-  background-color: #2d422d;
+  background-color: #202f20;
   color:#fff;
   display: flex;
 
