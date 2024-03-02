@@ -7,9 +7,9 @@ function Main(){
                         <div className="main-title-wrapper">
                           <div className="main-title-item">Hello  </div>
                           <div className="main-title-item"> Hola </div>
-                          <div className="main-title-item">Bonjour</div>
-                          <div className="main-title-item">Guten Tag </div>
-                          <div className="main-title-item">「こんにちは」 </div>
+                          <div className="main-title-item">नमस्ते</div>
+                          <div className="main-title-item">「こんにちは</div>
+                          <div className="main-title-item">你好</div>
                     </div>
                 </div>
                    
@@ -26,7 +26,7 @@ function Main(){
                 </div>
                 <div  className="tech-stack">
                      <h3 className="body-font">
-                        Technologies: HTML, CSS, Bootstrap, jQuery, Javascript, React, Ruby, Ruby on Rails, Python
+                        Technologies: HTML, CSS, jQuery, Javascript, SQL, React, Ruby, Python
                      </h3> 
                      <h3 className="body-font">
                         Currently Learning Shopify & Liquid

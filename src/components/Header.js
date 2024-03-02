@@ -1,6 +1,6 @@
 import { useState, useEffect} from 'react';
 import resume from './files/ResumeUpdate.pdf'
-
+// import Toggle from './Toggle.js'
 
 function Header(){
     let time = new Date().toLocaleTimeString();
@@ -20,8 +20,9 @@ function Header(){
     
     return(
         <div className='header'>
+            <div className='light-toggle'></div>
+            {/* <Toggle/> */}
             <div className='sidebar-left'>
-            
             {hour >= 12 ? hour >= 16 ? <h3>Good Evening!</h3> : <h3>Good Afternoon!</h3> : <h3>Good Morning!</h3>}
             <h3>Today is {date}</h3>
             <h3>The current time is {currentTime}</h3>
